@@ -4,7 +4,7 @@ export default function DomiciliaryCarePage() {
   return (
     <main className="container mx-auto py-12 px-4 max-w-3xl">
       <h1 className="text-4xl font-bold mb-8">High-Quality Domiciliary Care Tailored for You</h1>
-      <p className="mb-4">At Wellgrove Care Group, our Domiciliary Care Service is designed for individuals who require long-term support in their daily lives. Whether it's assistance with personal care, everyday routines, or practical tasks, our services are built around each person's unique needs, preferences, and goals.</p>
+  <p className="mb-4">At Wellgrove Care Group, our Domiciliary Care Service is designed for individuals who require long-term support in their daily lives. Whether it&apos;s assistance with personal care, everyday routines, or practical tasks, our services are built around each person&apos;s unique needs, preferences, and goals.</p>
       <p className="mb-4">We’re here when you need us most—with a responsive, reliable team and flexible options that adapt to your lifestyle.</p>
       <h2 className="text-2xl font-semibold mt-8 mb-4">Why families choose Wellgrove:</h2>
       <ul className="list-disc list-inside mb-6 ml-4 space-y-1">
@@ -69,12 +69,12 @@ export default function DomiciliaryCarePage() {
         <li>🛏 Residential Care</li>
         <li>🏠 Supported Living</li>
       </ul>
-      <h2 className="text-2xl font-semibold mt-8 mb-4">Let’s Talk</h2>
+  <h2 className="text-2xl font-semibold mt-8 mb-4">Let&apos;s Talk</h2>
       <p className="mb-2">Need advice or want to explore care options?</p>
       <ul className="list-disc list-inside mb-6 ml-4 space-y-1">
         <li>📞 Call us anytime: 020 3370 4487</li>
-        <li>🕒 We’re available 24/7</li>
-        <li>💬 Request a callback and let’s discuss the right solution for you</li>
+        <li>🕒 We&apos;re available 24/7</li>
+        <li>💬 Request a callback and let&apos;s discuss the right solution for you</li>
       </ul>
       <p className="mt-6">At Wellgrove Care Group, we do whatever it takes to bring you peace of mind and purposeful support—because care should feel like confidence.</p>
     </main>
